@@ -1,0 +1,49 @@
+Respondent ID,Department,How satisfied are you with the campus cafeteria?,The prices are reasonable,How many days per week do you eat at the cafeteria?,Which meals do you usually buy? (select all that apply),How likely are you to recommend the cafeteria to a friend? (0-10),What is the one thing you would improve?
+1,Computer Science,very satisfied,neutral,4,Lunch; Snacks,9,Please add more variety. The menu is the same every week.
+2,Computer Science,satisfied,disagree,0,Lunch; Dinner,5,
+3,Computer Science,satisfied,disagree,1,Lunch; Snacks,8,Staff are friendly but the service is slow when it is busy.
+4,Business,neutral,disagree,4,Lunch; Dinner,6,"Not enough seating at lunch, we end up eating standing up."
+5,Computer Science,very satisfied,agree,4,Lunch,9,
+6,Business,satisfied,neutral,4,Lunch,6,"The food is tasty and I like the fresh bread, please keep it."
+7,Engineering,very dissatisfied,strongly disagree,0,Lunch; Snacks,4,Great staff and good taste. Just add more drink options.
+8,Computer Science,neutral,neutral,4,Breakfast; Lunch; Dinner,6,Portions are small compared to the price.
+9,Business,satisfied,disagree,4,Breakfast; Lunch,9,Prices keep going up every semester. Some student discount would help.
+10,Engineering,dissatisfied,neutral,3,Lunch; Snacks,5,The tables and dining area are not always clean.
+11,Business,dissatisfied,neutral,5,Lunch; Snacks,4,"Need a faster way to order, maybe an app, to skip the line."
+12,Business,dissatisfied,neutral,2,Lunch; Dinner,5,The tables and dining area are not always clean.
+13,Business,satisfied,disagree,4,Lunch,8,More healthy options like salads and fruit would be great.
+14,Engineering,neutral,disagree,2,Breakfast; Lunch; Dinner,6,"Prices are too high for students, a simple lunch costs almost as much as a restaurant meal."
+15,Computer Science,very satisfied,disagree,1,Lunch; Snacks,5,Prices keep going up every semester. Some student discount would help.
+16,Psychology,satisfied,neutral,1,Lunch,7,Portions are small compared to the price.
+17,Engineering,dissatisfied,strongly disagree,1,Breakfast; Lunch; Dinner; Snacks,5,Prices keep going up every semester. Some student discount would help.
+18,Business,very satisfied,strongly disagree,4,Breakfast; Lunch; Dinner; Snacks,8,"Prices are too high for students, a simple lunch costs almost as much as a restaurant meal."
+19,Business,dissatisfied,strongly disagree,5,Lunch,6,"The food is tasty and I like the fresh bread, please keep it."
+20,Computer Science,very satisfied,disagree,0,Breakfast; Lunch; Snacks,9,Great staff and good taste. Just add more drink options.
+21,Engineering,neutral,agree,5,Lunch; Dinner; Snacks,6,More healthy options like salads and fruit would be great.
+22,Business,satisfied,disagree,5,Breakfast; Lunch; Dinner; Snacks,5,I would like vegetarian and vegan choices every day.
+23,Business,neutral,disagree,2,Lunch,2,The tables and dining area are not always clean.
+24,Business,neutral,disagree,2,Breakfast; Lunch; Dinner,6,The queue at lunch time is very long. I often wait 20 minutes and miss part of my next class.
+25,Computer Science,neutral,disagree,3,Lunch; Dinner,5,"Prices are too high for students, a simple lunch costs almost as much as a restaurant meal."
+26,Engineering,neutral,disagree,1,Lunch,5,Portions are small compared to the price.
+27,Engineering,satisfied,strongly disagree,3,Lunch; Dinner; Snacks,9,Please add more variety. The menu is the same every week.
+28,Engineering,very dissatisfied,disagree,2,Lunch,4,The tables and dining area are not always clean.
+29,Psychology,very satisfied,strongly agree,1,Lunch; Dinner,10,"The food is tasty and I like the fresh bread, please keep it."
+30,Business,neutral,disagree,2,Lunch,7,Please add more variety. The menu is the same every week.
+31,Computer Science,very satisfied,disagree,3,Breakfast; Dinner,8,I would like vegetarian and vegan choices every day.
+32,Business,dissatisfied,disagree,1,Breakfast; Lunch; Dinner,5,"Prices are too high for students, a simple lunch costs almost as much as a restaurant meal."
+33,Engineering,dissatisfied,disagree,3,Lunch; Dinner,4,I would like vegetarian and vegan choices every day.
+34,Engineering,satisfied,neutral,7,Breakfast; Lunch,5,Staff are friendly but the service is slow when it is busy.
+35,Computer Science,neutral,disagree,3,Breakfast; Lunch,6,Breakfast options are very limited and often sold out by 9 am.
+36,Computer Science,neutral,neutral,1,Snacks,4,Portions are small compared to the price.
+37,Business,satisfied,strongly disagree,2,Breakfast; Lunch; Dinner; Snacks,6,I would like vegetarian and vegan choices every day.
+38,Business,satisfied,neutral,1,Lunch; Snacks,9,I would like vegetarian and vegan choices every day.
+39,Business,neutral,strongly agree,5,Breakfast; Dinner,6,
+40,Business,dissatisfied,disagree,3,Breakfast; Lunch; Dinner,7,
+41,Computer Science,satisfied,neutral,1,Lunch,6,"The food is tasty and I like the fresh bread, please keep it."
+42,Engineering,very dissatisfied,disagree,2,Lunch,3,The tables and dining area are not always clean.
+43,Psychology,satisfied,strongly disagree,3,Lunch,7,Please add more variety. The menu is the same every week.
+44,Computer Science,very satisfied,neutral,5,Lunch,10,"Prices are too high for students, a simple lunch costs almost as much as a restaurant meal."
+45,Business,very satisfied,neutral,3,Lunch,8,Portions are small compared to the price.
+46,Engineering,neutral,agree,5,Lunch,6,Staff are friendly but the service is slow when it is busy.
+47,Computer Science,very satisfied,neutral,3,Lunch; Dinner; Snacks,7,Staff are friendly but the service is slow when it is busy.
+48,Engineering,dissatisfied,neutral,1,Breakfast; Dinner,5,"Prices are too high for students, a simple lunch costs almost as much as a restaurant meal."
